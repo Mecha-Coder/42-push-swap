@@ -13,6 +13,11 @@ Sort an array of integers with the least number of steps.
 
 ---
 
+### **Learnings**
+- Deeper understanding of linked lists
+
+---
+
 ### **About**
 
 👉 [**Project requirement**](https://github.com/Mecha-Coder/42-push-swap/blob/main/demo/en.subject.pdf)
@@ -32,10 +37,6 @@ I used the Turk algorithm, which involves calculating the cost (in number of mov
 
 The main technical challenge of this project was managing the linked list — ensuring proper node detachment and reattachment to avoid any memory leaks
 
----
-
-### **Learnings**
-- Deeper understanding of linked lists
 
 ---
 
