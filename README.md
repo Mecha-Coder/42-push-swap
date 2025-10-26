@@ -26,7 +26,7 @@ This project is about sorting a list of integers as few steps as possible. We ar
 - rra / rrb — Reverse rotate: the last element moves to the top, and all others shift down
 - pa / pb — Push: move the top element from one stack to the other
 
-You can try an interactive visualization of this concept here: https://vscza.itch.io/push-swap
+This link takes you to a game that visualizes how the program sorts numbers: https://vscza.itch.io/push-swap
 
 I used the Turk algorithm, which involves calculating the cost (in number of moves) for each possible push and selecting the cheapest move at every iteration. See the resource section for more details on how the algorithm works.
 
